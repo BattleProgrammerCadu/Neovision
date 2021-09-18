@@ -1,10 +1,10 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import App from './App';
-
+import AnimatedSvg from './components/animatedSvg';
 
 ReactDOM.render(
-    <App />
+  <AnimatedSvg />
   ,
   document.getElementById('root')
 );
