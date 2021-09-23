@@ -17,4 +17,4 @@ Abra [http://localhost:3000](http://localhost:3000) no seu navegador.
 ## Live Demo
 Para demonstração o deploy do projeto foi feito utilizando [Vercel](https://github.com/vercel/vercel).
 
-Você pode acessá-lo em: https://neovision-riuwhqupu-battleprogrammercadu.vercel.app/
+Você pode acessá-lo em: https://neovision.vercel.app/
